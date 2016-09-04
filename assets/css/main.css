@@ -1682,7 +1682,8 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #000000;
+			/*digitalnudge link hover color*/
+			color: #EE5BA0;
 		}
 
 	strong, b {
@@ -3539,7 +3540,8 @@
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		/*nudge sidebar*/
+		background: #00ADF0;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3893,6 +3895,14 @@
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
+	}
+
+	.digitaltext {
+		color: #EE5BA0;
+	}
+
+	.nudgetext {
+		color: #00ADF0;
 	}
 
 		#intro p {
