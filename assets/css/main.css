@@ -1702,7 +1702,7 @@
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: bold;
 		line-height: 1.5;
-		margin: 0 0 0.5em 0;
+		margin: 0 0 0 0;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1711,7 +1711,8 @@
 		}
 
 	h1 {
-		font-size: 4em;
+		/*nudge DigitalNudge header*/
+		font-size: 6em;
 	}
 
 		h1.major {
@@ -3906,7 +3907,8 @@
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 2em;
+			line-height: 1;
 		}
 
 			@media screen and (max-width: 980px) {
