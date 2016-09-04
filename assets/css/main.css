@@ -1699,7 +1699,6 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
 		font-weight: bold;
 		line-height: 1.5;
 		margin: 0 0 0.5em 0;
@@ -3255,6 +3254,7 @@
 		.wrapper.style1 {
 			/* digitalnudge yellow */
 			background-color: #FFE302;
+			color: #000000;
 		}
 
 		.wrapper.style1-alt {
@@ -3262,6 +3262,7 @@
 		}
 
 		.wrapper.style2 {
+			color: #ffffff;
 			background-color: #5052b5;
 		}
 
@@ -3270,6 +3271,7 @@
 		}
 
 		.wrapper.style3 {
+			color: #ffffff;
 			background-color: #b74e91;
 		}
 
