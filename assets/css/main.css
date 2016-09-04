@@ -1682,7 +1682,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff;
+			color: #000000;
 		}
 
 	strong, b {
@@ -2381,7 +2381,7 @@
 			-moz-osx-font-smoothing: grayscale;
 			-webkit-font-smoothing: antialiased;
 			font-family: FontAwesome;
-			font-style: normal;
+			font-style: normal;			
 			font-weight: normal;
 			text-transform: none !important;
 		}
@@ -2701,6 +2701,8 @@
 						-webkit-font-smoothing: antialiased;
 						font-family: FontAwesome;
 						font-style: normal;
+						/* digitalnudge larger social icons*/
+						font-size: xx-large;
 						font-weight: normal;
 						text-transform: none !important;
 					}
