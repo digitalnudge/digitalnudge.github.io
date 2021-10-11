@@ -17,4 +17,4 @@ jobs :
          servidor : ${{secrets.ftp_host}} 
         nome de usuário : ${{secrets.ftp_user}} 
         senha : ${{secrets.ftp_password}}
-        server-dir : digitalnudge.org
+        server-dir : digitalnudge.org/
